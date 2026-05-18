@@ -6,4 +6,4 @@ Daily grind mastering core systems, data analysis, and relational logic.
 * **Data Infrastructure:** Python for Data Analysis (Wes McKinney)
 ---
 ## Daily Progress Index
-* **[Day 01](/day_01):**Git and Github Architecture Fundamentals
+* [Day 01](/day_01):Git and Github Structure and Architecture Fundamentals 
