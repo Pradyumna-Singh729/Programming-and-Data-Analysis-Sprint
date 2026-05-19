@@ -1,4 +1,4 @@
-### Day 1: Git Fundamentals and Local Workflow
+### Day 1: Git and Github Structure and Architecture Fundamentals
 Here are my handwritten git and github basics notes and Comments for today:  
 I finally found out what Git anf GitHub actually is (had only heard a lot about it from tech people)  
 Learnt Git and GitHub purpose and distinction, basically git is a tool that lets you have save point in your work and github is the same but instead of Local its global letting us share the work as well as have other collaborators seamlessly edit the Work  
