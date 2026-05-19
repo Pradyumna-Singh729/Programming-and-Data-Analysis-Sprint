@@ -1,0 +1,8 @@
+# Ignore python cache folders in ANY chapter subfolder
+**/__pycache__/
+*.pyc
+
+# Ignore system or code editor workspace settings
+.vscode/
+.idea/
+Thumbs.db
