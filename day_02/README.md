@@ -1,10 +1,11 @@
 ### Day 2: Advanced Git Workflow, and Disiributed Version Control
 ### Terminal Practice & CLI Execution  
-I practiced navigating the system architecture and initializing the Git pipeline directly from the command line, i got hands on practice with every command i learnt and executed hundreds of command to build muscle memory for directory navigation and repository initialization.  
+
 <details>
-  <summary><b> Click here to view my raw, unedited terminal history grind</b></summary>
- 
-```
+  <summary><b> Click here to view my raw, unedited terminal history grind</b></summary>  
+  
+ I practiced navigating the system architecture and initializing the Git pipeline directly from the command line, i got hands on practice with every command i learnt and executed hundreds of command to build muscle memory for directory navigation and repository initialization.
+```bash
 satti@DESKTOP-JHB7J8S MINGW64 ~/OneDrive/Desktop
 $ cd git journey
 bash: cd: too many arguments
