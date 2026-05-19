@@ -1757,7 +1757,7 @@ $ 
 ```
 </details>  
  
-### Git anf GitHub Learning Notes, Handwritten
+### Git and GitHub Learning Notes, Handwritten
 Page 1:
 ![Git and GitHub Basics Page 5](git_basics_5.jpg)
 Page 2:
