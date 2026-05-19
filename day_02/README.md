@@ -1,7 +1,9 @@
 ### Day 2: Advanced Git Workflow, and Disiributed Version Control
 ### Terminal Practice & CLI Execution  
 I practiced navigating the system architecture and initializing the Git pipeline directly from the command line, i got hands on practice with every command i learnt and executed hundreds of command to build muscle memory for directory navigation and repository initialization.  
-Click here to view my raw, unedited history grind  
+<details>
+  <summary><b> Click here to view my raw, unedited terminal history grind</b></summary>
+ 
 ```
 satti@DESKTOP-JHB7J8S MINGW64 ~/OneDrive/Desktop
 $ cd git journey
@@ -1742,6 +1744,7 @@ Everything up-to-date
 satti@DESKTOP-JHB7J8S MINGW64 ~/OneDrive/Desktop/my-first-repo (feature)
 $ 
 ```
+</details>
 Page 1:
 ![Git and GitHub Basics Page 5](git_basics_5.jpg)
 Page 2:
