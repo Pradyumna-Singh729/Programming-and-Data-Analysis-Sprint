@@ -1,4 +1,4 @@
-### Day 1: Git and GitHub basics Part 1  
+### Day 2: Advanced Git Workflows and Disiributed Version Control
 
 Page 1:
 ![Git and GitHub Basics Page 5](git_basics_5.jpg)
