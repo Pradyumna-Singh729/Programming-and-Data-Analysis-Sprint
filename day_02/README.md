@@ -1,4 +1,14 @@
 ### Day 2: Advanced Git Workflow, and Disiributed Version Control
+Today, on my day 2 of the sprint, i continued to dive deeper into git and github, checking edge cases of everything along the way, learning every command needed.  
+Learnt deeply about Merging of Branches, Merge conflicts, their resolution, merge commit and other intricate concepts.  
+Learnt how to switch between commits, comapre comitts.  
+Got to know what are the differences between Pushing and Fetching, their uses, and the command of Push, Push and Fetch, with checking edge cases manually
+Understood git restore vs git reset deeply.  
+Got practical experience with stashing in git, also understanding the differnce between git pop and git apply.  
+Understood the command git revert.  
+Internalized the Working of git rebase deeply.  
+Finally completed the Git and Github Fundamentals by learning about Pull Request (PR)  
+
 ### Terminal Practice & CLI Execution  
 
 <details>
