@@ -1,4 +1,4 @@
-### Day 2: Advanced Git Workflow, and Disiributed Version Control
+### Day 2: Advanced Git Workflow, and Distiributed Version Control
 Today, on my day 2 of the sprint, i continued to dive deeper into git and github, checking edge cases of everything along the way, learning every command needed.  
 Learnt deeply about Merging of Branches, Merge conflicts, their resolution, merge commit and other intricate concepts.  
 Learnt how to switch between commits, comapre comitts.  
