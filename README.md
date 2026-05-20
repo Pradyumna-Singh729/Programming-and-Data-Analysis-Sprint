@@ -6,6 +6,7 @@ Automate the Boring Stuff with Python (Al Sweigart)
 * **Database and Query Logic:** SQL Quickstart Guide (Walter Shields)
 * **Data Infrastructure:** Python for Data Analysis (Wes McKinney)
 ---
-## Daily Progress Index
-* [Day 01](/day_01):Git and Github Structure and Architecture Fundamentals
-* [Day 02](/day_02):Advanced Git Workflow, and Disiributed Version Control
+## Progress Index
+* [Day 01](/day_01): Git and Github Structure and Architecture Fundamentals
+* [Day 02](/day_02): Advanced Git Workflow, and Disiributed Version Control
+* [Getting Started](/Python-Crash-Course/01_Getting_Started): First Chapter of Python Crash Course
