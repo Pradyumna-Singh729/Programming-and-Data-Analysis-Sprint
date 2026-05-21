@@ -1,5 +1,7 @@
 # Started Python Crash Course by Eric Matthes.  
 ## Completed Chapter 01 Getting Started.  
+### Resources and Materials
+[](resources_used/01-getting-started-annotations.pdf)
 ### Key Insights and Progress Log
 Started with setting up the programming environment by Installing Python and VS Code Editor on my setup.  
 Found out What Programming Language is, the meaning of a text editor and the python interpreter in CLI.  
