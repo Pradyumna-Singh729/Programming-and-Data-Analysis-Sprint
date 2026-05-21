@@ -1,6 +1,6 @@
 ## Completed Chapter 02 Variables and Simple Data Types.  
 ### Resources and Materials.  
-<a href="resources_used/02-variables-and-simple-data-types" target="_blank">📄 Click here to open the Annotated PDF</a>
+<a href="resources_used/02-variables-and-simple-data-types.pdf" target="_blank">📄 Click here to open the Annotated PDF</a>
 ### Key Insights and Progress Log.  
 Started with understanding what actually happens in our machine when we run a python file (indicated by .py suffix).  
 Learnt about syntax highlighting, a very usefil feature of text editors like VS Code.  
