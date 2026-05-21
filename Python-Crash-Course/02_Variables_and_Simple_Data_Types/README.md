@@ -1,5 +1,7 @@
 ## Completed Chapter 02 Variables and Simple Data Types.  
-### Key Insights and Progress Log
+### Resources and Materials.  
+<a href="resources_used/02-variables-and-simple-data-types" target="_blank">📄 Click here to open the Annotated PDF</a>
+### Key Insights and Progress Log.  
 Started with understanding what actually happens in our machine when we run a python file (indicated by .py suffix).  
 Learnt about syntax highlighting, a very usefil feature of text editors like VS Code.  
 Understood the term variables and their values, and how we can change the value of a variable at any time (python always keeps track of its current value), also that its a useful thing to write the variable name in lowercase and the constant (a variable whose value we dont change throughout the program) name by uppercase for easy distinction, finally understood the rules for naming of variables.    
