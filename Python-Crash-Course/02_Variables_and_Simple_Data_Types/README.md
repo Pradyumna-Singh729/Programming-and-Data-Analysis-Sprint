@@ -1,6 +1,6 @@
 ## Completed Chapter 02 Variables and Simple Data Types.  
 ### Resources and Materials.  
-[📄 Click here to open the Annotated PDF](Python-Crash-Course/02_Variables_and_Simple_Data_Types/resources_used/02-variables-and-simple-data-types-annotations.pdf)
+[📄 Click here to open the Annotated PDF](resources_used/02-variables-and-simple-data-types-annotations.pdf)
 ### Key Insights and Progress Log.  
 Started with understanding what actually happens in our machine when we run a python file (indicated by .py suffix).  
 Learnt about syntax highlighting, a very usefil feature of text editors like VS Code.  
