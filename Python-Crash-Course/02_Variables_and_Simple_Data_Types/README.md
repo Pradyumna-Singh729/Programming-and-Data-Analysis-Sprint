@@ -2,7 +2,7 @@
 ### Resources and Materials.  
 [📄 Click here to open the Annotated PDF](resources_used/02-variables-and-simple-data-types-annotations.pdf)
 ### Key Insights and Progress Log.  
-Started with understanding what actually happens in our machine when we run a python file (indicated by .py suffix).  
+>Started with understanding what actually happens in our machine when we run a python file (indicated by .py suffix).  
 Learnt about syntax highlighting, a very usefil feature of text editors like VS Code.  
 Understood the term variables and their values, and how we can change the value of a variable at any time (python always keeps track of its current value), also that its a useful thing to write the variable name in lowercase and the constant (a variable whose value we dont change throughout the program) name by uppercase for easy distinction, finally understood the rules for naming of variables.    
 Dived into errors that might appear dur to naming (name error) or syntax errors and how they are recorded as a traceback, also learnt how python code does not worry about english grammer errors, also finally internalized how variables are labels that we assign to values, not exactly boxes where we store values.  
