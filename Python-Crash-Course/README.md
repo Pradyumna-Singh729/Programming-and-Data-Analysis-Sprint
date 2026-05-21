@@ -7,9 +7,9 @@ Organised by Chapters. Each chapter directory follows a uniform three-tier struc
 📁 Python-Crash-Course/
 │
 ├── 📁 Chapter-XX-[Chapter-Name]/
-│   ├── 📁 sandbox/             # Active code-along files, experiments, and inline book examples.
-│   ├── 📁 practice-problems/   # End-of-chapter exercises and challenges.
-│   └── 📁 resources-used/           # Book annotations, cheat sheets, and reference material.
+│   ├── 📁 practice_problems/   # End-of-chapter/section exercises and challenges.
+│   ├── 📁 resource_used/       # Book annotations, cheat sheets, and reference material.
+│   └── 📁 sandbox/             # Active code-along files, experiments, and inline book examples.
 │
 └── 📄 README.md                # Central hub, architecture overview, and core concepts log, with handwritten work attached if needed.
 ```
