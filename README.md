@@ -11,3 +11,4 @@ Automate the Boring Stuff with Python (Al Sweigart)
 * [Day 02](/day_02): Advanced Git Workflow, and Disiributed Version Control
 * [Getting Started](/Python-Crash-Course/01_Getting_Started): First Chapter of Python Crash Course
 * [Variables and Simple Data Types](/Python-Crash-Course/02_Variables_and_Simple_Data_Types): Second Chapter of Python Crash Course
+* [Introducing Lists](/Python-Crash-Course/03_Introducing_Lists): Third Chapter of Python Crash Course
