@@ -22,15 +22,15 @@
 >Next is "Writing over a tuple", we cant modify a tuple but we can assign a new value to the variable the represents a tuple, i.e... if we want to edit a tuple, we can just redefine the entire tuple by using `<tuple_name> = (<fill this with the new values you want for the tuple>).
 >
 >Styling Your Code (PEP 8 Guidelines)
-Code is read much more often than it is written. Writing clean, consistent code helps you keep track of what your programs are doing and makes it easier to debug and collaborate.
-
-The Style Guide (PEP 8): Python Enhancement Proposals (PEP) are documents detailing changes or standards for the language. PEP 8 is the definitive style guide for writing clean Python.
-
-Indentation: Use exactly 4 spaces per indentation level. Never mix tabs and spaces in a file—the Python interpreter gets confused, leading to errors that are very difficult to diagnose. Set your text editor to automatically convert the TAB key into spaces.
-
-Line Length: Keep code lines under 80 characters (specifically a maximum of 79 characters). This historical standard allows you to keep multiple files open side-by-side on a screen without hiding text. Keep comments limited to 72 characters per line, as documentation tools often add characters at the start of comment lines. Use a vertical line visual cue in your editor to track this.
-
-Blank Lines: Use blank lines to group distinct sections of your program visually, but do not use them excessively (avoid placing 3 or 4 blank lines between code blocks). Vertical spacing is completely disregarded by the Python interpreter and will not affect how your code runs, but it directly impacts readability.
+>Code is read much more often than it is written. Writing clean, consistent code helps you keep track of what your programs are doing and makes it easier to debug and collaborate.
+>
+>The Style Guide (PEP 8): Python Enhancement Proposals (PEP) are documents detailing changes or standards for the language. PEP 8 is the definitive style guide for writing clean Python.
+>
+>Indentation: Use exactly 4 spaces per indentation level. Never mix tabs and spaces in a file—the Python interpreter gets confused, leading to errors that are very difficult to diagnose. Set your text editor to automatically convert the TAB key into spaces.
+>
+>Line Length: Keep code lines under 80 characters (specifically a maximum of 79 characters). This historical standard allows you to keep multiple files open side-by-side on a screen without hiding text. Keep comments limited to 72 characters per line, as documentation tools often add characters at the start of comment lines. Use a vertical line visual cue in your editor to track this.
+>
+>Blank Lines: Use blank lines to group distinct sections of your program visually, but do not use them excessively (avoid placing 3 or 4 blank lines between code blocks). Vertical spacing is completely disregarded by the Python interpreter and will not affect how your code runs, but it directly impacts readability.
 >
 >
 >
