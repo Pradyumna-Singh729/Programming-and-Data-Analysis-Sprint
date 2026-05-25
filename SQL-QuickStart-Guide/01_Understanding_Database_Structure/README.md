@@ -17,7 +17,7 @@
 >When developing a database using SQL, a specific `data type` must be designated for each and every column used, and this specific data type assigned to a column is stored a `metadata`.
 >Data types vary slightly depending on the version of SQL we're using, but we will have `numeric data types`, `charecter or text based data types`, 'dates and times' and 'boolean values'.
 >`Numeric Data` includes integers, which usually comes with a length limitation. When integer data type will not do, we can use `decimal data` (which can also be length restricted).
->`Charecter or text-based data types may be configured to hold both a fixed-length string of charecters and a variable-length string.
+>`Charecter or text-based data` types may be configured to hold both a fixed-length string of charecters and a variable-length string.
 >`Date and Times` are important data in many circumstances, SQL allows us to choose from a variety of different dat-and-time layouts, we can also format a table to just hold an year, or anything we like. Also SQL date and time formats have build in numeric values that allow the database to interpret requests for chronologically specific outputs!.
 >A `Boolean` value is data expressed as either True or False.
 >
