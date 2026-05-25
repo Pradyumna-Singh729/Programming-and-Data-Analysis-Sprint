@@ -1,4 +1,4 @@
-<img width="495" height="327" alt="image" src="https://github.com/user-attachments/assets/e89e44b9-22ee-48b4-8eb0-77d99788187b" />## Completed Chapter 04 Working with Lists.
+## Completed Chapter 04 Working with Lists.
 ### Resources and Materials.  
 [📄 Click here to open the Annotated PDF](resources_used/04-working-with-lists-annotations.pdf)
 ### Key Insights and Progress Log.  
