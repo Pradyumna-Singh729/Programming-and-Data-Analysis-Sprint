@@ -13,4 +13,4 @@ Automate the Boring Stuff with Python (Al Sweigart)
 * [Variables and Simple Data Types](/Python-Crash-Course/02_Variables_and_Simple_Data_Types): Second Chapter of Python Crash Course
 * [Introducing Lists](/Python-Crash-Course/03_Introducing_Lists): Third Chapter of Python Crash Course
 * [Working with Lists](/Python-Crash-Course/04_Working_with_Lists): Fourth Chapter of Python Crash Course
-* [If Statements](/Python-Crash-Course/05_Working_with_Lists): Fifth Chapter of Python Crash Course
+* [If Statements](/Python-Crash-Course/05_If_Statements): Fifth Chapter of Python Crash Course
