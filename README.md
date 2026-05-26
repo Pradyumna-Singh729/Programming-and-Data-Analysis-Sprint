@@ -14,3 +14,5 @@ Automate the Boring Stuff with Python (Al Sweigart)
 * [Introducing Lists](/Python-Crash-Course/03_Introducing_Lists): Third Chapter of Python Crash Course
 * [Working with Lists](/Python-Crash-Course/04_Working_with_Lists): Fourth Chapter of Python Crash Course
 * [If Statements](/Python-Crash-Course/05_If_Statements): Fifth Chapter of Python Crash Course
+ *[Understanding Database Structure](/SQL-QuickStart-Guide/01_Understanding_Database_Structure): First Chapter of SQL QuickStart Guide
+ 
