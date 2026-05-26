@@ -2,7 +2,7 @@
 ### Resources and Materials.  
 [📄 Click here to open the Annotated PDF](resources_used/01-understanding-database-structure-annotations.pdf)
 ### Key Insights and Progress Log.  
->```text
+>
 >A "datum" is a piece of information. `Data` is simply the plural form of datum. (generally recorded/recordable information).
 >One of the simplest tools to visualize data is a `table`. A `table` (also sometimes called a `relation`) is merely a two-dimensional grid consisting of rows and columns. (may also be called `base relvar` when used in database). Data can be names, numbers, dates, charecters (like "+" or "-") or it may be presented in a multitude of other formats, (in boxes of the tables per say).
 >The formats used to render data are not random. All databases contain something known as a `metadata`, which is data that describes the structure and formatting of the data itself, basically "data about the data" e.g... Date_of_birth field may contain metadata that constricts information in the field into dd-dd-yyyy format etc.
@@ -32,5 +32,6 @@
 >A complete SQL statement can also be a complete query, a query contain multiple clauses, each starting with a keyword.
 >
 >We now have a basic grasp of database architechture and how we interact with it. We now will move towards a more hands-on learning approach, we select the SQLite RDBMS for this book since its very accessible and most of it is applicable to other RDBMS's, and the most widely used one, used in mobile devices, computers and even automobiles.
->```
+>
+>
 >
