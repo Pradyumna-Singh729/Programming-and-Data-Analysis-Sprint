@@ -4,6 +4,7 @@ Daily grind mastering core systems, data analysis, and relational logic.
 * **Language Foundations:** Python Crash Course (Eric Mattheis),   
 Automate the Boring Stuff with Python (Al Sweigart)
 * **Database and Query Logic:** SQL Quickstart Guide (Walter Shields)
+* **Statistics Methodology:** OpenIntro Statistics (David Diez)
 * **Data Infrastructure:** Python for Data Analysis (Wes McKinney)
 ---
 ## Progress Index
