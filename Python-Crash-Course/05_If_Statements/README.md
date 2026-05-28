@@ -11,3 +11,9 @@
 >We can also `Check Whether a Value Is in a List` by using the keyword `in`, e.g... `<value> in <list_name>` returns `True` if the list contains the value, and `False` if it does not (know that its case sensitive, it needs to be the exact value in the list for `True`) basically the keyword `in` tells python to check for the existence of <value> in <list_name> list. Conversely, we can also `Check Whether a Value is Not in a List`, by the keyword `not in` (works as obvious).
 >A `Boolean Expression` is just another name for the conditonal test. A `Boolean Value` is either `True` or `False`, just like the value of a conditional exression after it has been evaluated.
 >
+>After understanding conditional statements, we can now write `if statements`, several kinds of them exist, we use the one that serves our purpose, depending on the number of conditions we need to test and how they need to be tested.
+>`Simple if statements` has one test and one action
+>```code
+>if conditional test:
+>  do something
+>```
