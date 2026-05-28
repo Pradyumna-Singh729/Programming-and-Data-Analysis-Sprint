@@ -15,5 +15,45 @@
 >`Simple if statements` has one test and one action
 >```code
 >if conditional test:
+>   do something
+>```
+>We can put any conditional test in the first line and just about any action in the indented block following the test. If the conditional test evaluates to `True`, Python executes the indented code following the `if` statement, if the test evaluates to `False`, Python ignores the indented code following the `if` statement (indented code as in all of the indented lines just after the `if` statement) (indentation playes the same role in `if` statements as it did in `for` loops.).
+>
+>`if-else statements`, if we want to take one action when a conditional test passes and a different action in all other cases, we can use Python's `if-else syntax`. An if-else block is similar to a simple `if` statement, but the `else` statement allows us to define an action or set of actions  that are executed when the conditional test fails. The blueprint of an `if-else block` goes like:
+>```code
+>if statement:
+>  do something
+>else:
 >  do something
 >```
+>if the if condition passes the indented lines below it are executed and the else block is ignored, and if the if condition fails, the indented code below it is ignored and the else block, i.e... the indented lines below `else:` are executed. (know that an `if-else-block` like this only works if we want python to always ecevute one of two possible actions, in a simple `if-else chain` like this, one of the two actions will always be executed.)
+>`if-elif-else chain`, if we need to test more than 2 possible situations, we can use python's `if-elif-else syntax`. Python executes only one block in an if-elif-else chain. It runs a conditional test in order, until one passes, when it does, the indented code following that test is executed and Python skips the rest of the tests. The blueprint is:
+>```code
+>if statement:
+>  do something
+>elif statement:
+>  do something
+>elif statement:
+>  do something
+>.
+>.
+>.              # as many `elif` blocks as we want
+>else:
+>  do something
+>```
+>Know that the elif line is really just another if test, which runs only if the previous tests in the if-elif-else chain failed, and if all the `if` and `elif` tests failed in the `if-elif-else chain`, then the else block of code runs, else has no conditional test, it covers every single situation not covered by the preceding if and elif statements, know that we can also omit the else block from a potential `if-elif-else chain` and just end in an elif, this can be useful by making the code cleaner by setting clear boundries as conditions in every block rather than a general `else` block, with this change, every block of code must pass a specific condition in order to be executed. (The `else` block is a `catchall` statement. It matches any conditon that wasnt matched by a specific `if` or `elif` test, and that can sometimes inclide invalid or even malicious data.
+> The `if-elif-else` chain is powerful, but its only appropriate to use when you need one test to pass. As soon as python finds one test that passes, it skips the rest of the tests, however sometimes its important to check all condition in interest, for this we can just use a series of simple `if` statements with no `elif` or `else` blocks. It will skip no blocks of code this way, it makes sense to use it if we want to act on every single condition that is true, just goes like:
+>```code
+>if statement:
+>  do something
+>if statement:
+>  do something
+>.
+>.
+>.
+>if statement:
+>  do something
+>```
+>In summary if we want one block of code to work to run, we use an `if-elif-else chain`. If more than one block of code needs to run, use a series of independent if statements.
+>
+>
