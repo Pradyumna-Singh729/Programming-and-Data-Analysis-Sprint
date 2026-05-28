@@ -1,6 +1,6 @@
 ## Completed Chapter 02 SQL Tools and Strategies
 ### Resources and Materials.  
-[📄 Click here to open the Annotated PDF](resources_used/01-understanding-database-structure-annotations.pdf)
+[📄 Click here to open the Annotated PDF](resources_used/02-sql-tools-and-strategies-annotations.pdf)
 ### Key Insights and Progress Log.  
 
 >We started this chapter with a goal of setting up our SQL environment.
