@@ -59,13 +59,32 @@
 >We can do some interesting work by `Using if statements with list`.
 >An `if statement inside the for loop` can handle many situation appropriately, a simple blueprint is:
 >```code
->requested_toppings = ['mushroom', 'green peppers', 'extra cheese']
-
-for requested_topping in requested_toppings:
-    if requested_topping == "green peppers":
-        print("Sorry, we are out of green peppers right now.")
-    else:
-        print(f"Adding {requested_topping}.")
-    
-print("\nFinished making your pizza.")
-```
+>for <variable_name> in <list_name>:
+>        if something:
+>                do something
+>        else:
+>                do something
+>```
+>this will run the `if-else block` for every item in the list <list_name>.  
+> Till now we have assumed that the lists we get will always be non empty, but in truth we wont be able to keep such an assumption in real life situations, for this its useful to  `Check Where a list is empty` before running a `for` loop. When the name of a list is used in an `if` statement, Python returns `True` if the list has atlease one item, an empty list evaluates to `False`, i.e... `if <list_name>` returns true if and only if the list <list_name> has atlease one element, we can use this in our program as:
+>```code
+>if <list_name>:
+>        for <variable_name> in <list_name>:
+>                if something:
+>                        do something
+>                else:
+>                        do something
+>else:
+>        do something
+>```
+>if the list is empty here the the `else` block at the end will run instead of the `for` loop.
+>Finally, we see that sometimes we might have to check if an item in a particular list (say list_1) is in or not in another list (say list_2) before acting on it a certain way, for this purpose, we can again use an `if` statement inside a for loop, the blueprint is:
+>```code
+>for <variable_name> in list_1:
+>        if <variable_name> in list_2:
+>                do something
+>        else:
+>                do something
+>```
+>this treats an item in list_1 differently based on if it is in list_2 or not, helping us in many real world situations.
+>
