@@ -14,7 +14,9 @@ Automate the Boring Stuff with Python (Al Sweigart)
 * [Variables and Simple Data Types](/Python-Crash-Course/02_Variables_and_Simple_Data_Types): Second Chapter of Python Crash Course
 * [Introducing Lists](/Python-Crash-Course/03_Introducing_Lists): Third Chapter of Python Crash Course
 * [Working with Lists](/Python-Crash-Course/04_Working_with_Lists): Fourth Chapter of Python Crash Course
-* [If Statements](/Python-Crash-Course/05_If_Statements): Fifth Chapter of Python Crash Course  
+* [If Statements](/Python-Crash-Course/05_If_Statements): Fifth Chapter of Python Crash Course
+* [Dictionaries](/Python-Crash-Course/06_Dictionaries): Sixth Chapter of Python Crash Course
+
 * [Understanding Database Structure](/SQL-QuickStart-Guide/01_Understanding_Database_Structure): First Chapter of SQL QuickStart Guide
 * [SQL Tools and Strategies](/SQL-QuickStart-Guide/02_SQL_Tools_and_Strategies): Second Chapter of SQL QuickStart Guide
 * [Exploring a Database in SQL](/SQL-QuickStart-Guide/03_Exploring_a_Database_in_SQL): Third Chapter of SQL QuickStart Guide
