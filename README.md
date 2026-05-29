@@ -17,4 +17,5 @@ Automate the Boring Stuff with Python (Al Sweigart)
 * [If Statements](/Python-Crash-Course/05_If_Statements): Fifth Chapter of Python Crash Course  
 * [Understanding Database Structure](/SQL-QuickStart-Guide/01_Understanding_Database_Structure): First Chapter of SQL QuickStart Guide
 * [SQL Tools and Strategies](/SQL-QuickStart-Guide/02_SQL_Tools_and_Strategies): Second Chapter of SQL QuickStart Guide
+* [Exploring a Database in SQL](/SQL-QuickStart-Guide/03_Exploring_a_Database_in SQL): Third Chapter of SQL QuickStart Guide
 
