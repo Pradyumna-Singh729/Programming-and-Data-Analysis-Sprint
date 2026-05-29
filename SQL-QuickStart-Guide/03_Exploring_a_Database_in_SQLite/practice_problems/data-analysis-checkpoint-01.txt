@@ -1,0 +1,10 @@
+# Using the Database Structure tab and the Browse Data tab, try to answer the following questions:
+# 1. How many tables are in our database?
+13
+# 2. How many fields does the table named "tracks" have?
+9
+# 3. What are some of the data types in this table?
+INTEGER, NVARCHAR, NUMERIC
+# 4. What does the actual data look in the table?
+Looks like its to store all the tracks with their respective Album ID, Media Type ID, Genre ID, Composer, Length, File size and UnitPrice, where the primary key is Track ID and it seems there are many foreign keys.
+Also it makes sense for TrackId,, AlbumId, MediaTypeID, GenreId, Milliseconds, Bytes to have the NUmeric Data Type and all else fields Except UnitPrice (with NUMERIC datatype) have the NVARCHAR datatype.
